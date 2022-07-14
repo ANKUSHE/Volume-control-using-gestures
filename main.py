@@ -1,4 +1,4 @@
-#Volume control using gesture
+#Volume control using gestur
 # from unittest import result
 import cv2 
 import mediapipe as mp
